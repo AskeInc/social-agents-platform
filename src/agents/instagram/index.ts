@@ -1,2 +1,3 @@
-export * from './config';
-export * from './controller';
+export function sendInstagramDM() {
+  console.log("Fake Instagram agent running");
+}

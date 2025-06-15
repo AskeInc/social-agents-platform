@@ -1,2 +1,3 @@
-export * from './config';
-export * from './controller';
+export function sendWhatsAppMessage() {
+  console.log("Fake WhatsApp agent running");
+}
